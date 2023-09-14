@@ -14,3 +14,6 @@ TODO
 
 # Posters
 * Sydney Dimmock, Cian O'Donnell, & Conor Houghton. (2022). A Bayesian approach to phases for frequency-tagged EEG for the cognitive neuroscience of language. _Cognitive Modeling and Computational Linguistics (CMCL)_, Dublin. Zenodo. https://doi.org/10.5281/zenodo.6612450
+
+# Other
+* A short RStan tutorial presented at <a href="https://www.bristol.ac.uk/neuroscience/events/2022/bbb22.html)">Bristol Bayes for the Brain</a> 2022 can be found in this <a href="https://github.com/BayesianReadingGroup/StanTutorial">repository</a>.
